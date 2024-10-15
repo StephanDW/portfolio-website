@@ -1,0 +1,32 @@
+body {
+  width: 100vw;
+  height: 100vh;
+  padding: 0px;
+  margin: 0px;
+}
+
+main {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  justify-items: center;
+}
+
+.box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  justify-items: center;
+}
+
+.header {
+  display:flex;
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.heart{
+  color: red;
+}
